@@ -1,5 +1,7 @@
 # salsvaders
 
-iOS SpriteKit implementation of Space Invaders-style mobile game.
+This is an implementation of an iOS SpriteKit Space Invaders-style mobile game. 
 
-BGM from orginaljun | Pew-pew-ing from SeanSecret | Space background inspired by kyznectortube | App Icons generated with App Icon Generator
+DISCLAIMER: I've just included the source code as well as the assets, such as images, icons, etc...
+
+
